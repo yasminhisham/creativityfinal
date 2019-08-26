@@ -1,0 +1,12 @@
+body {
+color: rgb(128,0,128);
+font-family:arial;
+margin:0px;
+}
+h1,h2{text-align: center;}
+
+.yas{border-radius: 50%;}
+.yas{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
